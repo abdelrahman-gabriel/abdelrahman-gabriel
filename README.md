@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there, I'm abdelrahman mohamed! 🦇  
 
-<!--
-**abdelrahman-gabriel/abdelrahman-gabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 **Computer Engineering Student | Aspiring Penetration Tester**  
+🔒 Interested in **Cybersecurity, Networking, and Ethical Hacking**  
+💡 Currently learning **Red Hat, Python for PenTesting, and Security+**  
+📫 Connect with me: [LinkedIn](www.linkedin.com/in/abdelrahman-mohamed-b3a938350)  
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack  
+- **Programming:** C, C++, Python  
+- **Cybersecurity:** PenTesting, CCNA, MCSA, Security+  
+- **OS:** Windows, Linux (Fedora), windows server  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects  
