@@ -11,3 +11,13 @@
 - **OS:** Windows, Linux (Fedora), windows server  
 
 ## 📌 Projects  
+## 🏨 Hotel Reservation System  
+A C++ project for managing hotel reservations, guests, and rooms efficiently.  
+
+📌 **Key Features:**  
+- Manage room reservations and guest details  
+- Search and update rooms based on status, type, and rating  
+- Maintain a structured reservation history  
+
+📂 **Project Repository:**  
+[🔗 View on GitHub](https://github.com/abdelrahman-gabriel/hotel_reservation_system)
