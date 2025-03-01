@@ -1,4 +1,4 @@
-# Hi there, I'm abdelrahman mohamed! 🦇  
+# Hi there, I'm abdelrahman mohamed!  
 
 👨‍💻 **Computer Engineering Student | Aspiring Penetration Tester**  
 🔒 Interested in **Cybersecurity, Networking, and Ethical Hacking**  
