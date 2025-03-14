@@ -33,5 +33,5 @@ This project focuses on setting up an enterprise-grade IT infrastructure using *
 - **High Availability & Disaster Recovery with Hyper-V Replication**
 - **Windows Server Deployment & Management** (MCSA Course Project)
 
-## 🔗 Repository Link
-[Enterprise Server Deployment & Security Project](https://github.com/abdelrahman-gabriel/Enterprise-Server-Deployment)
+📂 **Project Repository:** 
+[🔗 View on GitHub](https://github.com/abdelrahman-gabriel/Enterprise-Server-Deployment)
