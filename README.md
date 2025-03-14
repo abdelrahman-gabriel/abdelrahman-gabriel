@@ -25,7 +25,7 @@ A C++ project for managing hotel reservations, guests, and rooms efficiently.
 ## Enterprise Server Deployment & Security Project
 This project focuses on setting up an enterprise-grade IT infrastructure using **Hyper-V** for virtualization and implementing **network security measures** to ensure a **secure and efficient IT environment**.
 
-## 📌 Key Features:
+📌 **Key Features:** 
 - **Enterprise Server Deployment** using **Hyper-V Virtualization**
 - **Domain Controller Setup** for central authentication and resource management
 - **Active Directory & Group Policies Implementation**
