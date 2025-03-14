@@ -28,7 +28,6 @@ This project focuses on setting up an enterprise-grade IT infrastructure using *
 ## 📌 Key Features:
 - **Enterprise Server Deployment** using **Hyper-V Virtualization**
 - **Domain Controller Setup** for central authentication and resource management
-- **Network Security Configuration** (Firewall, VLANs, and Access Controls)
 - **Active Directory & Group Policies Implementation**
 - **High Availability & Disaster Recovery with Hyper-V Replication**
 - **Windows Server Deployment & Management** (MCSA Course Project)
