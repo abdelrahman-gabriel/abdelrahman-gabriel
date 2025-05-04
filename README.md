@@ -35,13 +35,31 @@ This project focuses on setting up an enterprise-grade IT infrastructure using *
 📂 **Project Repository:** 
 [🔗 View the repository](https://github.com/abdelrahman-gabriel/Enterprise-Server-Deployment)
 
+## **Locked In – Python-Based Password Manager** 🔒
+
+"Locked In" is a Python-based password manager that provides secure password storage, an intuitive user interface, and encrypted password management. Developed as part of my **Software Engineering module**.
+
+📌 **Key Features:** 
+- 🔐 **Master password** authentication with hashed security.
+- ➕ Add, ✏️ modify, 🗑️ delete, and 🔍 access stored passwords.
+- 📈 **Password strength** indicator.
+- 🛡️ **Password generator** for strong passwords.
+- 🔒 **Encrypted password storage** using Cryptography.
+- 🖥️ Built with **PyQt5** for a clean interface.
+- 💻 **Cross-platform compatibility** (Windows & Linux).
+
+
+📂 **Project Repository:** 
+🔗 [View the repository](https://github.com/abdelrahman-gabriel/Locked-In-Password-Manager)
+
 
 ### 🔧 VHDL-Based Pipelined Processor
 A custom-designed pipelined processor implemented in VHDL as part of my Computer Architecture module. It features a 32-bit instruction format and supports various arithmetic, logical, shift, and memory operations.
 
 **🔑 Key Features:**
-- 32-bit instruction format with opcode, destination, source, and addressing mode
-- Supports operations like `ADD`, `SUB`, `MUL`, `DIV`, `LOAD`, `STORE`, and more
-- Four addressing modes: direct, immediate, register, and register-indirect
-
+- 32-bit instruction format with opcode, destination, source, and addressing mode.
+- Supports operations like `ADD`, `SUB`, `MUL`, `DIV`, `LOAD`, `STORE`, and more.
+- Four addressing modes: direct, immediate, register, and register-indirect.
+- 
+📂 **Project Repository:** 
 🔗 [View the repository](https://github.com/abdelrahman-gabriel/vhdl-pipelined-processor)
