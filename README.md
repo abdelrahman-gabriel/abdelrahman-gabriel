@@ -44,4 +44,4 @@ A custom-designed pipelined processor implemented in VHDL as part of my Computer
 - Supports operations like `ADD`, `SUB`, `MUL`, `DIV`, `LOAD`, `STORE`, and more
 - Four addressing modes: direct, immediate, register, and register-indirect
 
-🔗 [View the repository]([https://github.com/abdelrahman-gabriel/vhdl-pipelined-processor])
+🔗 [View the repository](https://github.com/abdelrahman-gabriel/vhdl-pipelined-processor)
