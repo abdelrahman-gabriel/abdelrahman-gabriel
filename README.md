@@ -20,7 +20,7 @@ A C++ project for managing hotel reservations, guests, and rooms efficiently.
 - Maintain a structured reservation history  
 
 📂 **Project Repository:**  
-[🔗 View on GitHub](https://github.com/abdelrahman-gabriel/hotel_reservation_system)
+[🔗 View the repository](https://github.com/abdelrahman-gabriel/hotel_reservation_system)
 
 ## Enterprise Server Deployment & Security Project
 This project focuses on setting up an enterprise-grade IT infrastructure using **Hyper-V** for virtualization and implementing **network security measures** to ensure a **secure and efficient IT environment**.
@@ -33,4 +33,15 @@ This project focuses on setting up an enterprise-grade IT infrastructure using *
 - **Windows Server Deployment & Management** (MCSA Course Project)
 
 📂 **Project Repository:** 
-[🔗 View on GitHub](https://github.com/abdelrahman-gabriel/Enterprise-Server-Deployment)
+[🔗 View the repository](https://github.com/abdelrahman-gabriel/Enterprise-Server-Deployment)
+
+
+### 🔧 VHDL-Based Pipelined Processor
+A custom-designed pipelined processor implemented in VHDL as part of my Computer Architecture module. It features a 32-bit instruction format and supports various arithmetic, logical, shift, and memory operations.
+
+**🔑 Key Features:**
+- 32-bit instruction format with opcode, destination, source, and addressing mode
+- Supports operations like `ADD`, `SUB`, `MUL`, `DIV`, `LOAD`, `STORE`, and more
+- Four addressing modes: direct, immediate, register, and register-indirect
+
+🔗 [View the repository]([https://github.com/abdelrahman-gabriel/vhdl-pipelined-processor])
