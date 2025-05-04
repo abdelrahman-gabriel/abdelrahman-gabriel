@@ -7,7 +7,7 @@
 
 ## 🔧 Tech Stack  
 - **Programming:** C, C++, Python  
-- **Cybersecurity:** PenTesting, CCNA, MCSA, Security+  
+- **Cybersecurity:** PenTesting, CCNA, MCSA.  
 - **OS:** Windows, Linux (Fedora), windows server  
 
 ## 📌 Projects  
