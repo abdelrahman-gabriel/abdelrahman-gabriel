@@ -13,18 +13,18 @@
 ## 📌 Projects  
 # Enterprise Multi-Site Network Simulation
 
-This is a CCNA-level enterprise network simulation built using Cisco Packet Tracer. The project models a realistic multi-site infrastructure with core networking services and security features.
+This is a **CCNA-level enterprise network simulation** built using **Cisco Packet Tracer**. The project models a realistic multi-site infrastructure with core networking services and security features.
 
-## Key Features
+## **Key Features**
 
-- Multi-Area OSPF Routing  
-- HSRP for Gateway Redundancy  
-- DHCP for Dynamic IP Assignment  
-- NAT for Internet Simulation  
-- ACLs for Traffic Control and Security  
-- STP with PortFast for Loop Prevention  
-- SSH for Secure Remote Management  
-- Wireless Access Points with WPA2-PSK
+- **Multi-Area OSPF Routing**  
+- **HSRP** for Gateway Redundancy  
+- **DHCP** for Dynamic IP Assignment  
+- **NAT** for Internet Simulation  
+- **ACLs** for Traffic Control and Security  
+- **STP with PortFast** for Loop Prevention  
+- **SSH** for Secure Remote Management  
+- **Wireless Access Points** with WPA2-PSK
 
 📂 **Project Repository:** 
 [🔗 View the repository](https://github.com/abdelrahman-gabriel/Enterprise-Multi-Site-Network-Simulation)
