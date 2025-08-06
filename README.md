@@ -7,8 +7,8 @@
 
 ## 🔧 Tech Stack  
 - **Programming:** C, C++, Python  
-- **Cybersecurity:** PenTesting, CCNA, MCSA.  
-- **OS:** Windows, Linux (Fedora), windows server  
+- **Cybersecurity:** PenTesting, CCNA, MCSA, AZ-900, RH124, RH134.  
+- **OS:** Windows, Linux, windows server  
 
 ## 📌 Projects  
 # Enterprise Multi-Site Network Simulation
