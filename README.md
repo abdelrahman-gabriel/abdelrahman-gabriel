@@ -2,7 +2,7 @@
 <h3 align="center">Network and Security Engineer</h3>
 
 # 💫 About Me:
-🔭Projects:<br>[Enterprise-Multi-Site-Network-Simulation](https://github.com/abdelrahman-gabriel/Enterprise-Multi-Site-Network-Simulation) <br>[Locked-In-Password-Manager](https://github.com/abdelrahman-gabriel/Locked-In-Password-Manager) <br>[Enterprise-Server-Deployment-Security-Project](https://github.com/abdelrahman-gabriel/Enterprise-Server-Deployment-Security-Project) <br>
+### 🔭Projects:<br>[Enterprise-Multi-Site-Network-Simulation](https://github.com/abdelrahman-gabriel/Enterprise-Multi-Site-Network-Simulation) <br>[Locked-In-Password-Manager](https://github.com/abdelrahman-gabriel/Locked-In-Password-Manager) <br>[Enterprise-Server-Deployment-Security-Project](https://github.com/abdelrahman-gabriel/Enterprise-Server-Deployment-Security-Project) <br>
 
 
 ## 🌐 Socials:
